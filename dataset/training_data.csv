@@ -1,0 +1,84 @@
+text,intent
+How can I create an account?,account_query
+What payment methods do you accept?,payment_query
+How can I track my order?,order_tracking
+What is your return policy?,return_policy
+Can I cancel my order?,cancel_policy
+How long does shipping take?,shipping_query
+Do you offer international shipping?,shipping_query
+What should I do if my package is lost or damaged?,general_query
+Can I change my shipping address after placing an order?,shipping_query
+How can I contact customer support?,customer_support
+Do you offer gift wrapping services?,gift_services
+What is your price matching policy?,pricing_query
+Can I order by phone?,general_query
+Are my personal and payment details secure?,payment_query
+What is your price adjustment policy?,pricing_query
+Do you have a loyalty program?,general_query
+Can I order without creating an account?,account_query
+Do you offer bulk or wholesale discounts?,pricing_query
+Can I change or cancel an item in my order?,cancel_order
+How can I leave a product review?,review_query
+Can I use multiple promo codes on a single order?,pricing_query
+What should I do if I receive the wrong item?,general_query
+Do you offer expedited shipping?,shipping_query
+Can I order a product that is out of stock?,stock_query
+What is your email newsletter about?,general_query
+Can I return a product if I changed my mind?,return_policy
+Do you offer live chat support?,customer_support
+Can I order a product as a gift?,gift_services
+What should I do if my discount code is not working?,pricing_query
+Can I return a product if it was a final sale item?,return_policy
+Do you offer installation services for your products?,general_query
+Can I order a product that is discontinued?,general_query
+Can I return a product without a receipt?,return_policy
+Can I order a product for delivery to a different country?,shipping_query
+Can I add a gift message to my order?,gift_services
+Can I request a product demonstration before making a purchase?,general_query
+Can I order a product that is listed as 'coming soon'?,general_query
+Can I request an invoice for my order?,general_query
+Can I order a product that is labeled as 'limited edition'?,general_query
+Can I return a product if I no longer have the original packaging?,return_policy
+Can I request a product that is currently out of stock to be reserved for me?,stock_query
+Can I order a product that is listed as 'pre-order' with other in-stock items?,stock_query
+Can I return a product if it was damaged during shipping?,return_policy
+Can I request a product that is out of stock to be restocked?,stock_query
+Can I order a product if it is listed as 'backordered'?,stock_query
+Can I return a product if it was purchased during a sale or with a discount?,return_policy
+Can I request a product repair or replacement if it is damaged?,general_query
+Can I order a product if it is listed as 'out of stock' but available for pre-order?,stock_query
+Can I return a product if it was purchased as a gift?,return_policy
+Can I request a product if it is listed as 'discontinued'?,general_query
+Can I order a product if it is listed as 'sold out'?,general_query
+Can I return a product if it was purchased with a gift card?,return_policy
+Can I request a product if it is not currently available in my size?,general_query
+Can I order a product if it is listed as 'coming soon' but available for pre-order?,stock_query
+Can I return a product if it was purchased with a discount code?,return_policy
+Can I request a custom order or personalized product?,general_query
+Can I order a product if it is listed as 'temporarily unavailable'?,general_query
+Can I return a product if it was damaged due to improper use?,return_policy
+Can I request a product if it is listed as 'coming soon' but not available for pre-order?,stock_query
+Can I order a product if it is listed as 'on hold'?,general_query
+Can I return a product if I no longer have the original receipt?,return_policy
+Can I request a product that is listed as 'limited edition' to be restocked?,general_query
+Can I order a product if it is listed as 'discontinued' but still visible on the website?,general_query
+Can I return a product if it was a clearance or final sale item?,return_policy
+Can I request a product if it is not listed on your website?,general_query
+Can I order a product if it is listed as 'out of stock' but available for backorder?,stock_query
+Can I return a product if it was purchased as part of a bundle or set?,return_policy
+Can I request a product that is listed as 'out of stock' to be restocked?,stock_query
+Can I order a product if it is listed as 'coming soon' and available for pre-order?,stock_query
+Can I return a product if it was damaged due to mishandling during shipping?,return_policy
+Can I request a product that is listed as 'out of stock' to be reserved for me?,stock_query
+Can I order a product if it is listed as 'pre-order' but available for backorder?,stock_query
+Can I return a product if it was purchased with store credit?,return_policy
+Can I request a product that is currently out of stock to be restocked?,stock_query
+Can I order a product if it is listed as 'sold out' but available for pre-order?,stock_query
+Can I return a product if it was purchased with a promotional gift card?,return_policy
+Can I request a product if it is not currently available in my preferred color?,general_query
+Can I order a product if it is listed as 'coming soon' and not available for pre-order?,stock_query
+Can I return a product if it was purchased during a promotional event?,return_policy
+Is cancellation allowed?,cancel_policy
+What is your cancellation policy?,cancel_policy
+Can orders be cancelled?,cancel_policy
+Is it possible to cancel after ordering?,cancel_policy

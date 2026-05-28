@@ -1,0 +1,29 @@
+{
+    "order_tracking": "Please enter your order ID to track your shipment.",
+
+    "refund_request": "Your refund request has been submitted successfully.",
+
+    "return_policy": "Products can be returned within 7 days of delivery.",
+
+    "cancel_policy": "Yes, you can cancel your order before it is shipped.",
+
+    "cancel_order": "Your order cancellation request has been received.",
+
+    "shipping_query": "Shipping usually takes 3-5 business days.",
+
+    "pricing_query": "Discounts and offers are available on selected products.",
+
+    "customer_support": "Our customer support team is available 24/7.",
+
+    "gift_services": "Gift wrapping services are available during checkout.",
+
+    "payment_query": "We accept debit cards, credit cards, UPI, and PayPal.",
+
+    "review_query": "You can leave reviews on the product page.",
+
+    "stock_query": "You can sign up for stock notifications.",
+
+    "account_query": "You can create an account using the Sign Up option.",
+
+    "general_query": "Please contact customer support for more information."
+}
